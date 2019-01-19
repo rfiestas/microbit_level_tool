@@ -11,7 +11,11 @@ It has an accelerometer so it can detect motion and knows when you're on the mov
 
 On this script i use the accelerometer as a level tool, it can be used to indicate how parallel (level) a surface is relative to the earth.
 
+- main.py, contains the **python** version.
+- main.ts, contains the **javascript** version.
 
 Usage
 -------
-Clone this repository and flash *main.py* to your micro:bit.
+Clone this repository and flash main.py or main.ts to your micro:bit.
+
+Read more info about flash this code on https://support.microbit.org/support/solutions/articles/19000013986-how-do-i-transfer-my-code-onto-the-micro-bit-via-usb
